@@ -1,0 +1,4 @@
+###
+GET https://jsearch.p.rapidapi.com/search-filters?query=Python%20developer%20in%20Texas%2C%20USA
+X-RapidAPI-Key: ecaec5c67fmshb9e1835dd8c25c6p13fd42jsn81554e3d1a6b
+X-RapidAPI-Host: jsearch.p.rapidapi.com
